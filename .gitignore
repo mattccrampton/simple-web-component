@@ -1,0 +1,15 @@
+# package directories
+./reports
+node_modules
+jspm_packages
+
+# Serverless directories
+.serverless
+
+junit.xml
+.env
+
+./coverage
+
+# IDE
+.vscode

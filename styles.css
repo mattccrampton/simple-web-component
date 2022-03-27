@@ -1,0 +1,41 @@
+body {
+  font-weight: 300;
+  margin: 0px;
+  min-height: 100vh;
+  font-family: -apple-system, BlinkMacSystemFont, 'Roboto', 'Segoe UI';
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 16px;
+  background-color:blue;
+  color:white;
+}
+
+header h1 {
+  text-transform: uppercase;
+  font-weight: 300;
+  margin: 0;
+}
+
+header vaadin-combo-box {
+  margin-left: 16px;
+  min-width: 300px;
+}
+
+main {
+  display: block;
+  padding: 16px;
+  width: 95%;
+}
+
+footer {
+  border-top:1px solid #eeeeee;
+  padding-top:10px;
+  margin:16px;
+  text-align:center;
+  font-size:80%;
+}

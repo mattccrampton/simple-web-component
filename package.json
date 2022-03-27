@@ -1,0 +1,13 @@
+{
+  "name": "simple-web-component",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "server:local": "./node_modules/.bin/http-server -p 22282 --cors -c-1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^14.1.0"
+  }
+}
