@@ -13,3 +13,4 @@ junit.xml
 
 # IDE
 .vscode
+.DS_Store
